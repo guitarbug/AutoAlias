@@ -5,7 +5,6 @@
 [简介]  
 1,TypeAndRun  
 借用一下LeoDou@CCF的简介.  
-引用:  
 >TypeAndRun 是一个使用命令行方式快速打开程序、文件、网址、邮件、文件夹等等的工具。除了可以方便的为自己的常用程序建立别名，TypeAndRun 也内置了大量“系统别名”，用自定义的快捷键调出命令行后，输入别名即可可以执行相应操作。而且TypeAndRun 可以为已经建立的别名自动补全，无需记住全部名称。也不用像一些快捷键工具一样要记住那么多快捷键。很方便哦。  
 
 2,AutoAlias  
@@ -15,9 +14,9 @@ AutoAlias能在指定的目录下搜索符合指定扩展名的文件,并自动�
 [使用方法]  
 1,首次使用,AutoAlias会自动搜索当前用户和所有用户的开始菜单和桌面的扩展名为.exe和.lnk的文件,并建立以下3个文件  
 
->AutoAlias.ini:配置文件
->AutoAlias_Config.txt:与config.ini相同格式的文本
->AutoAlias_History.txt:与history.ini相同格式的文本
+>AutoAlias.ini:配置文件  
+>AutoAlias_Config.txt:与config.ini相同格式的文本  
+>AutoAlias_History.txt:与history.ini相同格式的文本  
 
 2,将AutoAlias_Config.txt里面的内容copy到TAR目录下的config.ini文件末尾  
 将AutoAlias_history.txt里面的内容copy到TAR目录下的history.ini文件末尾  
